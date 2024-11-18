@@ -1,0 +1,19 @@
+show help
+.
+.
+.
+/
+.
+show help
+.
+.
+.
+.
+.
+show help
+.
+show help
+.
+show node google loopback google.com
+cls
+debug show cmdtree
